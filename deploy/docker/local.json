@@ -1,4 +1,0 @@
-{
-  "target": "http://api:8000/",
-  "host": "${VUE_PROXY_HOST}"
-}

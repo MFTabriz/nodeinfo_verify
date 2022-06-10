@@ -1,3 +1,0 @@
-[Unit]
-Description=reel2bits
-Wants=reel2bits-web.service reel2bits-worker.service
